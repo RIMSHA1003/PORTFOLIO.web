@@ -6,7 +6,7 @@
 
   <meta
     name="description"
-    content="Rimsha Chaudhary - Front-End Web Developer Portfolio"
+    content="RIMSHA - Front-End Web Developer Portfolio"
   >
 
   <meta name="author" content="RIMSHA">
@@ -96,9 +96,7 @@
         </p>
 
         <h1>
-          Rimsha
-          <br>
-          <span>Chaudhary</span>
+          RIMSHA
         </h1>
 
         <p class="hero-text">
@@ -158,7 +156,7 @@
 
           <img
             src="assets/profile.jpg"
-            alt="Rimsha Chaudhary"
+            alt="RIMSHA"
             onerror="
               this.style.display='none';
               this.parentElement.classList.add('photo-fallback');
